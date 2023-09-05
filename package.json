@@ -1,0 +1,22 @@
+{
+  "name": "web-app-essential-knowledge-by-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daichi0918/web-app-essential-knowledge-by-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daichi0918/web-app-essential-knowledge-by-javascript/issues"
+  },
+  "homepage": "https://github.com/daichi0918/web-app-essential-knowledge-by-javascript#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
